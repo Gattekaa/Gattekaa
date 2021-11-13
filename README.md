@@ -2,7 +2,7 @@
 </br>
 </br>
 19 anos</br>
-Desenvolvedor Front-end Junior.
+Desenvolvedor Front-end Junior.</br>
 Discord: ViniciusGabriel#4395</br>
 
 
