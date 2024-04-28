@@ -21,7 +21,6 @@ Nos últimos anos, tenho aprendido novas tecnologias e linguagens. Esses são os
 ## Trabalho & Educação <img src="assets/images/Student.png" width="30">
 
 - <img src="assets/images/Computer Mouse.png" width="25"> **Clear Cloud Software**:
-  
   - ****Desenvolvedor Full-Stack****
     - Setembro, 2022– Presente
   
@@ -30,18 +29,8 @@ Nos últimos anos, tenho aprendido novas tecnologias e linguagens. Esses são os
   - **Análise e Desenvolvimento de Sistemas**
     - Fevereiro, 2023– Presente
   
-  
 
-## Github Stats <img src="assets/images/Bar Chart.png" width="30">
 
-<nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gattekaa&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
-</nobr>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Gattekaa&hide_border=true&background=262A33&ring=43FFAF&fire=43FFAF&currStreakNum=E5F7EF&sideLabels=E5F7EF&dates=526777&currStreakLabel=E5F7EF&sideNums=43FFAF" /></p>
-
-## Discord Activity <img src="assets/images/Cyclone.png" width="30">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/379746413942407189?bg=262a33)](https://discord.com/users/430616499674284033)
 
 ## Gostou do meu trabalho? <img src="assets/images/Heart on Fire.png" width="30">
 
