@@ -10,7 +10,7 @@ Nos últimos anos, tenho aprendido novas tecnologias e linguagens. Esses são os
 |                        **#**                        | **Linguagem** |                       **Proficiência**                       |
 | :-------------------------------------------------: | :-----------: | :----------------------------------------------------------: |
 | <img src="assets/icons/Typescript.svg" width="25">  | `Typescript`  | <img src="assets/images/Flexed Biceps Light Skin Tone.png" width="25"> |
-|   <img src="assets/icons/Nextjs.svg" width="25">    |   `NextJS`    |      <img src="assets/images/Nerd Face.png" width="25">      |
+|   <img src="assets/icons/NextJS.svg" width="25">    |   `NextJS`    |      <img src="assets/images/Nerd Face.png" width="25">      |
 |    <img src="assets/icons/React.svg" width="25">    |   `ReactJS`   |      <img src="assets/images/Nerd Face.png" width="25">      |
 | <img src="assets/icons/Javascript.svg" width="25">  | `JavaScript`  |      <img src="assets/images/Nerd Face.png" width="25">      |
 |   <img src="assets/icons/NodeJS.svg" width="25">    |   `NodeJS`    | <img src="assets/images/Flexed Biceps Light Skin Tone.png" width="25"> |
