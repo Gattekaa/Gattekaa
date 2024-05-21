@@ -20,14 +20,17 @@ Nos últimos anos, tenho aprendido novas tecnologias e linguagens. Esses são os
 
 ## Trabalho & Educação <img src="assets/images/Student.png" width="30">
 
+- <img src="assets/images/Computer Mouse.png" width="25"> **FIESC - Federação das Indústrias do Estado de Santa Catarina**:
+  - **Desenvolvedor Full-Stack**
+    - Maio, 2024 – Presente
+  
 - <img src="assets/images/Computer Mouse.png" width="25"> **Clear Cloud Software**:
-  - ****Desenvolvedor Full-Stack****
-    - Setembro, 2022– Presente
+  - **Desenvolvedor Full-Stack**
+    - Setembro, 2022 – Maio, 2024
   
 - <img src="assets/images/School.png" width="25"> **Universidade Cruzeiro do Sul**:
-  
   - **Análise e Desenvolvimento de Sistemas**
-    - Fevereiro, 2023– Presente
+    - Fevereiro, 2023 – Presente
   
 
 
